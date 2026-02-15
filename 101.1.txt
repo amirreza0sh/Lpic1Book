@@ -1,6 +1,6 @@
 chapter 101.1 : Determine and configure hardware settings :)
 
-cd /sys/
+cd : /sys/
 
 sys : ls 
 
