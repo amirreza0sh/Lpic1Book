@@ -1,0 +1,25 @@
+chapter 101.1 : Determine and configure hardware settings :)
+
+cd /sys/
+
+sys : ls 
+
+اگر این دستور ها رو بزنیم 
+فایل های داخل sys رو به ما نشون میده
+/////////////////////////////////////////////////////////////////////////////////////////////////
+/sys : ls
+block  bus  class  dev  devices  firmware  fs  hypervisor  kernel  module  power
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
+و اگر داخل هر کدوم از این فایل ها  بریم فایل های مربوط به همون بخش داخلش هست !
+
+And if we go into each of these files, the files related to that section are inside !
+
+
+
+
+
+
+
+
+
