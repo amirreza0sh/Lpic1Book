@@ -15,11 +15,31 @@ block  bus  class  dev  devices  firmware  fs  hypervisor  kernel  module  power
 
 And if we go into each of these files, the files related to that section are inside !
 
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
+lsusb : This command tells us how many USBs are connected to our system.
+این دستور به ما میگه چند تا  usb به سیستم ما وصل هستش.
 
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
+lspci : This command gives us PCI It shows.
+این دستور به ما pci 
+رو نشون میده.
 
+////////////////////////////////////////////////////////////////////////////////////////////////
 
+lsblk : Essen says what he says. Block Devices They're connected to our system.
+اسن دستور میگه چه 
+block device هایی 
+به سیستم ما وصل هستن 
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+ 
+lshw : The lshw command in Linux is used to display detailed information about the system’s hardware.
+
+دستور lshw در لینوکس برای نمایش اطلاعات کامل سخت‌افزار سیستم استفاده میشه.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 
